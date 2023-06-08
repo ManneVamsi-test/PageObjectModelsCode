@@ -23,6 +23,7 @@ public class SwagLabsLogin3 {
 		login.UserPassword("secret_sauce");
 		login.LoginClick();
 		//driver.close();
+		//Code edited by git
 	}
 
 }
